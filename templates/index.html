@@ -17,13 +17,35 @@
 var map = L.mapbox.map('map', 'examples.map-i86nkdio')
     .setView([55.858, -4.259], 13);
 
-var featureLayer = L.mapbox.featureLayer()
+var roadLayer = L.mapbox.featureLayer()
     .addTo(map);
-featureLayer.loadURL('static/a_roads.geojson');
+roadLayer.loadURL('static/a_roads.geojson');
 
 var trafficLayer = L.mapbox.featureLayer()
     .addTo(map);
 trafficLayer.loadURL('static/traffic.geojson');
+
+var eventsLayer = L.mapbox.featureLayer()
+    .addTo(map);
+eventsLayer.loadURL('events.geojson');
+
+// Add custom popups to each using our custom feature properties
+eventsLayer.on('layeradd', function(e) {
+    var marker = e.layer,
+        feature = marker.feature;
+
+    // Create custom popup content
+    var popupContent =  '<span>' +
+                            feature.properties.comment +
+                        '</span>';
+
+    // http://leafletjs.com/reference.html#popup
+    marker.bindPopup(popupContent,{
+        closeButton: false,
+        minWidth: 320
+    });
+});
+
 </script>
 </body>
 </html>
