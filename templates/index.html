@@ -16,6 +16,11 @@
 <script>
 var map = L.mapbox.map('map', 'examples.map-i86nkdio')
     .setView([55.858, -4.259], 13);
+
+var featureLayer = L.mapbox.featureLayer()
+    .addTo(map);
+
+featureLayer.loadURL('statics/small.geojson');
 </script>
 </body>
-</html>
+</htmsm

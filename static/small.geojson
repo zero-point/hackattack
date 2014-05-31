@@ -1,0 +1,2878 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+      {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.289904821807117, 
+          55.86766270695622
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Recurring Instruction West", 
+        "END_Y": 665695.0, 
+        "END_X": 257501.0, 
+        "START_X": 256724.0, 
+        "START_Y": 666199.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.322566831303917, 
+          55.80155869380043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brackenrig Road", 
+        "END_Y": 658852.0, 
+        "END_X": 254411.0, 
+        "START_X": 254434.0, 
+        "START_Y": 658913.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.354315251425826, 
+          55.80668957651244
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Avenue", 
+        "END_Y": 659592.0, 
+        "END_X": 252569.0, 
+        "START_X": 252464.0, 
+        "START_Y": 659551.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.354315251425826, 
+          55.80668957651244
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Avenue", 
+        "END_Y": 659592.0, 
+        "END_X": 252569.0, 
+        "START_X": 252464.0, 
+        "START_Y": 659551.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.354315251425826, 
+          55.80668957651244
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Avenue", 
+        "END_Y": 659592.0, 
+        "END_X": 252569.0, 
+        "START_X": 252464.0, 
+        "START_Y": 659551.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.351593119376554, 
+          55.80654392677914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Drive", 
+        "END_Y": 659600.0, 
+        "END_X": 252480.0, 
+        "START_X": 252634.0, 
+        "START_Y": 659529.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.351593119376554, 
+          55.80654392677914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Drive", 
+        "END_Y": 659600.0, 
+        "END_X": 252480.0, 
+        "START_X": 252634.0, 
+        "START_Y": 659529.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.351593119376554, 
+          55.80654392677914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Drive", 
+        "END_Y": 659600.0, 
+        "END_X": 252480.0, 
+        "START_X": 252634.0, 
+        "START_Y": 659529.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.352286534402332, 
+          55.806926167865434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Square", 
+        "END_Y": 659631.0, 
+        "END_X": 252602.0, 
+        "START_X": 252592.0, 
+        "START_Y": 659573.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.352286534402332, 
+          55.806926167865434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Square", 
+        "END_Y": 659631.0, 
+        "END_X": 252602.0, 
+        "START_X": 252592.0, 
+        "START_Y": 659573.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.352286534402332, 
+          55.806926167865434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Brentwood Square", 
+        "END_Y": 659631.0, 
+        "END_X": 252602.0, 
+        "START_X": 252592.0, 
+        "START_Y": 659573.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353020035596123, 
+          55.80612111354933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Avenue", 
+        "END_Y": 659508.0, 
+        "END_X": 252672.0, 
+        "START_X": 252543.0, 
+        "START_Y": 659485.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.351313854137769, 
+          55.80535375606793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Gardens", 
+        "END_Y": 659443.0, 
+        "END_X": 252612.0, 
+        "START_X": 252647.0, 
+        "START_Y": 659396.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.351313854137769, 
+          55.80535375606793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Gardens", 
+        "END_Y": 659443.0, 
+        "END_X": 252612.0, 
+        "START_X": 252647.0, 
+        "START_Y": 659396.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.351313854137769, 
+          55.80535375606793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Bruntsfield Gardens", 
+        "END_Y": 659443.0, 
+        "END_X": 252612.0, 
+        "START_X": 252647.0, 
+        "START_Y": 659396.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.348592530487006, 
+          55.802834978721606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Buckthorne Place", 
+        "END_Y": 659049.0, 
+        "END_X": 252744.0, 
+        "START_X": 252808.0, 
+        "START_Y": 659110.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.322192263725302, 
+          55.810275868206524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Capelrig Street", 
+        "END_Y": 659729.0, 
+        "END_X": 254972.0, 
+        "START_X": 254490.0, 
+        "START_Y": 659882.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.322192263725302, 
+          55.810275868206524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Capelrig Street", 
+        "END_Y": 659729.0, 
+        "END_X": 254972.0, 
+        "START_X": 254490.0, 
+        "START_Y": 659882.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.322192263725302, 
+          55.810275868206524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Capelrig Street", 
+        "END_Y": 659729.0, 
+        "END_X": 254972.0, 
+        "START_X": 254490.0, 
+        "START_Y": 659882.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.322192263725302, 
+          55.810275868206524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Capelrig Street", 
+        "END_Y": 659729.0, 
+        "END_X": 254972.0, 
+        "START_X": 254490.0, 
+        "START_Y": 659882.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.322192263725302, 
+          55.810275868206524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Capelrig Street", 
+        "END_Y": 659729.0, 
+        "END_X": 254972.0, 
+        "START_X": 254490.0, 
+        "START_Y": 659882.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.314847889605445, 
+          55.81105257961034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Clova Street", 
+        "END_Y": 659686.0, 
+        "END_X": 254975.0, 
+        "START_X": 254953.0, 
+        "START_Y": 659953.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.314847889605445, 
+          55.81105257961034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Clova Street", 
+        "END_Y": 659686.0, 
+        "END_X": 254975.0, 
+        "START_X": 254953.0, 
+        "START_Y": 659953.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.314847889605445, 
+          55.81105257961034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Clova Street", 
+        "END_Y": 659686.0, 
+        "END_X": 254975.0, 
+        "START_X": 254953.0, 
+        "START_Y": 659953.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.314847889605445, 
+          55.81105257961034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Clova Street", 
+        "END_Y": 659686.0, 
+        "END_X": 254975.0, 
+        "START_X": 254953.0, 
+        "START_Y": 659953.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.346585856339038, 
+          55.80370027326723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Coltsfoot Drive", 
+        "END_Y": 659087.0, 
+        "END_X": 252914.0, 
+        "START_X": 252937.0, 
+        "START_Y": 659202.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35712525654074, 
+          55.80696831366723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Avenue", 
+        "END_Y": 659383.0, 
+        "END_X": 252445.0, 
+        "START_X": 252289.0, 
+        "START_Y": 659588.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35712525654074, 
+          55.80696831366723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Avenue", 
+        "END_Y": 659383.0, 
+        "END_X": 252445.0, 
+        "START_X": 252289.0, 
+        "START_Y": 659588.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35712525654074, 
+          55.80696831366723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Avenue", 
+        "END_Y": 659383.0, 
+        "END_X": 252445.0, 
+        "START_X": 252289.0, 
+        "START_Y": 659588.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35712525654074, 
+          55.80696831366723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Avenue", 
+        "END_Y": 659383.0, 
+        "END_X": 252445.0, 
+        "START_X": 252289.0, 
+        "START_Y": 659588.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35712525654074, 
+          55.80696831366723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Avenue", 
+        "END_Y": 659383.0, 
+        "END_X": 252445.0, 
+        "START_X": 252289.0, 
+        "START_Y": 659588.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35712525654074, 
+          55.80696831366723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Avenue", 
+        "END_Y": 659383.0, 
+        "END_X": 252445.0, 
+        "START_X": 252289.0, 
+        "START_Y": 659588.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.356462330990746, 
+          55.80550685538286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Gardens", 
+        "END_Y": 659475.0, 
+        "END_X": 252366.0, 
+        "START_X": 252325.0, 
+        "START_Y": 659424.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.354939492179571, 
+          55.80434052451719
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Place", 
+        "END_Y": 659397.0, 
+        "END_X": 252374.0, 
+        "START_X": 252416.0, 
+        "START_Y": 659291.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35744978875619, 
+          55.80600028541871
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Colwood Square", 
+        "END_Y": 659508.0, 
+        "END_X": 252301.0, 
+        "START_X": 252265.0, 
+        "START_Y": 659481.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.326314576104823, 
+          55.8106114131442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Cona Street", 
+        "END_Y": 659934.0, 
+        "END_X": 254307.0, 
+        "START_X": 254233.0, 
+        "START_Y": 659928.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.356549902669216, 
+          55.806691702133534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Craigflower Gardens", 
+        "END_Y": 659599.0, 
+        "END_X": 252417.0, 
+        "START_X": 252324.0, 
+        "START_Y": 659556.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.350180289703484, 
+          55.80773050289215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Craigflower Road", 
+        "END_Y": 659638.0, 
+        "END_X": 252273.0, 
+        "START_X": 252727.0, 
+        "START_Y": 659658.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.350180289703484, 
+          55.80773050289215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Craigflower Road", 
+        "END_Y": 659638.0, 
+        "END_X": 252273.0, 
+        "START_X": 252727.0, 
+        "START_Y": 659658.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.350180289703484, 
+          55.80773050289215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Craigflower Road", 
+        "END_Y": 659638.0, 
+        "END_X": 252273.0, 
+        "START_X": 252727.0, 
+        "START_Y": 659658.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.350180289703484, 
+          55.80773050289215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Craigflower Road", 
+        "END_Y": 659638.0, 
+        "END_X": 252273.0, 
+        "START_X": 252727.0, 
+        "START_Y": 659658.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.350180289703484, 
+          55.80773050289215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Craigflower Road", 
+        "END_Y": 659638.0, 
+        "END_X": 252273.0, 
+        "START_X": 252727.0, 
+        "START_Y": 659658.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.323788472032548, 
+          55.80813335032831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Crebar Street", 
+        "END_Y": 659947.0, 
+        "END_X": 254539.0, 
+        "START_X": 254382.0, 
+        "START_Y": 659647.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.323788472032548, 
+          55.80813335032831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Crebar Street", 
+        "END_Y": 659947.0, 
+        "END_X": 254539.0, 
+        "START_X": 254382.0, 
+        "START_Y": 659647.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.323788472032548, 
+          55.80813335032831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Crebar Street", 
+        "END_Y": 659947.0, 
+        "END_X": 254539.0, 
+        "START_X": 254382.0, 
+        "START_Y": 659647.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.323788472032548, 
+          55.80813335032831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Crebar Street", 
+        "END_Y": 659947.0, 
+        "END_X": 254539.0, 
+        "START_X": 254382.0, 
+        "START_Y": 659647.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.316771856016016, 
+          55.81092644990495
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Drumpark Street", 
+        "END_Y": 659674.0, 
+        "END_X": 254828.0, 
+        "START_X": 254832.0, 
+        "START_Y": 659943.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.316771856016016, 
+          55.81092644990495
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Drumpark Street", 
+        "END_Y": 659674.0, 
+        "END_X": 254828.0, 
+        "START_X": 254832.0, 
+        "START_Y": 659943.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.316771856016016, 
+          55.81092644990495
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Drumpark Street", 
+        "END_Y": 659674.0, 
+        "END_X": 254828.0, 
+        "START_X": 254832.0, 
+        "START_Y": 659943.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.316771856016016, 
+          55.81092644990495
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Drumpark Street", 
+        "END_Y": 659674.0, 
+        "END_X": 254828.0, 
+        "START_X": 254832.0, 
+        "START_Y": 659943.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.321725757247087, 
+          55.80324649076392
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Evanton Place", 
+        "END_Y": 659123.0, 
+        "END_X": 254448.0, 
+        "START_X": 254493.0, 
+        "START_Y": 659099.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.347988659893971, 
+          55.80261280592749
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Flowerdale Place", 
+        "END_Y": 659028.0, 
+        "END_X": 252808.0, 
+        "START_X": 252845.0, 
+        "START_Y": 659084.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.34883679529849, 
+          55.803180875228264
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Foxglove Place", 
+        "END_Y": 659071.0, 
+        "END_X": 252697.0, 
+        "START_X": 252794.0, 
+        "START_Y": 659149.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339339361458364, 
+          55.807676607260085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Alby Place", 
+        "END_Y": 659629.0, 
+        "END_X": 253350.0, 
+        "START_X": 253406.0, 
+        "START_Y": 659629.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339339361458364, 
+          55.807676607260085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Alby Place", 
+        "END_Y": 659629.0, 
+        "END_X": 253350.0, 
+        "START_X": 253406.0, 
+        "START_Y": 659629.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.341491054041017, 
+          55.808156991963614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Clunie Drive", 
+        "END_Y": 659707.0, 
+        "END_X": 253400.0, 
+        "START_X": 253273.0, 
+        "START_Y": 659687.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.341491054041017, 
+          55.808156991963614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Clunie Drive", 
+        "END_Y": 659707.0, 
+        "END_X": 253400.0, 
+        "START_X": 253273.0, 
+        "START_Y": 659687.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.340733866894109, 
+          55.808306243790064
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Clunie Place", 
+        "END_Y": 659796.0, 
+        "END_X": 253333.0, 
+        "START_X": 253321.0, 
+        "START_Y": 659702.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339545567455872, 
+          55.808985045873825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Livet Place", 
+        "END_Y": 659775.0, 
+        "END_X": 253470.0, 
+        "START_X": 253398.0, 
+        "START_Y": 659775.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339269226986873, 
+          55.80703973799635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Orchy Drive", 
+        "END_Y": 659723.0, 
+        "END_X": 253540.0, 
+        "START_X": 253408.0, 
+        "START_Y": 659558.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339269226986873, 
+          55.80703973799635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Orchy Drive", 
+        "END_Y": 659723.0, 
+        "END_X": 253540.0, 
+        "START_X": 253408.0, 
+        "START_Y": 659558.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339269226986873, 
+          55.80703973799635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Orchy Drive", 
+        "END_Y": 659723.0, 
+        "END_X": 253540.0, 
+        "START_X": 253408.0, 
+        "START_Y": 659558.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339269226986873, 
+          55.80703973799635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Orchy Drive", 
+        "END_Y": 659723.0, 
+        "END_X": 253540.0, 
+        "START_X": 253408.0, 
+        "START_Y": 659558.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.339269226986873, 
+          55.80703973799635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Orchy Drive", 
+        "END_Y": 659723.0, 
+        "END_X": 253540.0, 
+        "START_X": 253408.0, 
+        "START_Y": 659558.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.33743291183091, 
+          55.80676006087539
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Glen Orchy Place", 
+        "END_Y": 659565.0, 
+        "END_X": 253562.0, 
+        "START_X": 253522.0, 
+        "START_Y": 659523.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.341679297638746, 
+          55.80278709556505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Haberlea Avenue", 
+        "END_Y": 659094.0, 
+        "END_X": 253086.0, 
+        "START_X": 253241.0, 
+        "START_Y": 659090.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.341679297638746, 
+          55.80278709556505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Haberlea Avenue", 
+        "END_Y": 659094.0, 
+        "END_X": 253086.0, 
+        "START_X": 253241.0, 
+        "START_Y": 659090.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3437076649426, 
+          55.80175068078194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Haberlea Gardens", 
+        "END_Y": 659033.0, 
+        "END_X": 253173.0, 
+        "START_X": 253110.0, 
+        "START_Y": 658979.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3437076649426, 
+          55.80175068078194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Haberlea Gardens", 
+        "END_Y": 659033.0, 
+        "END_X": 253173.0, 
+        "START_X": 253110.0, 
+        "START_Y": 658979.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3437076649426, 
+          55.80175068078194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Haberlea Gardens", 
+        "END_Y": 659033.0, 
+        "END_X": 253173.0, 
+        "START_X": 253110.0, 
+        "START_Y": 658979.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.329667329345212, 
+          55.81088949612269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Hopeman Avenue", 
+        "END_Y": 659851.0, 
+        "END_X": 254155.0, 
+        "START_X": 254024.0, 
+        "START_Y": 659966.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327662617306411, 
+          55.81099937952838
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Hopeman Drive", 
+        "END_Y": 659711.0, 
+        "END_X": 254191.0, 
+        "START_X": 254150.0, 
+        "START_Y": 659974.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327662617306411, 
+          55.81099937952838
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Hopeman Drive", 
+        "END_Y": 659711.0, 
+        "END_X": 254191.0, 
+        "START_X": 254150.0, 
+        "START_Y": 659974.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.325571821339574, 
+          55.808863670640896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Hopeman Road", 
+        "END_Y": 659698.0, 
+        "END_X": 254161.0, 
+        "START_X": 254273.0, 
+        "START_Y": 659732.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.325571821339574, 
+          55.808863670640896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Hopeman Road", 
+        "END_Y": 659698.0, 
+        "END_X": 254161.0, 
+        "START_X": 254273.0, 
+        "START_Y": 659732.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331338352193171, 
+          55.80039488948552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Avenue", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 253880.0, 
+        "START_Y": 658802.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331338352193171, 
+          55.80039488948552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Avenue", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 253880.0, 
+        "START_Y": 658802.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331338352193171, 
+          55.80039488948552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Avenue", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 253880.0, 
+        "START_Y": 658802.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331338352193171, 
+          55.80039488948552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Avenue", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 253880.0, 
+        "START_Y": 658802.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331338352193171, 
+          55.80039488948552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Avenue", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 253880.0, 
+        "START_Y": 658802.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330273582122582, 
+          55.80046901258313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Drive", 
+        "END_Y": 658897.0, 
+        "END_X": 253881.0, 
+        "START_X": 253947.0, 
+        "START_Y": 658808.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.332469563290751, 
+          55.80036444026053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Gardens", 
+        "END_Y": 658944.0, 
+        "END_X": 253813.0, 
+        "START_X": 253809.0, 
+        "START_Y": 658801.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.332469563290751, 
+          55.80036444026053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Gardens", 
+        "END_Y": 658944.0, 
+        "END_X": 253813.0, 
+        "START_X": 253809.0, 
+        "START_Y": 658801.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.332469563290751, 
+          55.80036444026053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Gardens", 
+        "END_Y": 658944.0, 
+        "END_X": 253813.0, 
+        "START_X": 253809.0, 
+        "START_Y": 658801.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331563898403147, 
+          55.802565895281724
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Inverewe Place", 
+        "END_Y": 659016.0, 
+        "END_X": 253910.0, 
+        "START_X": 253874.0, 
+        "START_Y": 659044.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.32982995149552, 
+          55.798652700867414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Avenue", 
+        "END_Y": 658504.0, 
+        "END_X": 253824.0, 
+        "START_X": 253968.0, 
+        "START_Y": 658605.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.32982995149552, 
+          55.798652700867414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Avenue", 
+        "END_Y": 658504.0, 
+        "END_X": 253824.0, 
+        "START_X": 253968.0, 
+        "START_Y": 658605.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.32982995149552, 
+          55.798652700867414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Avenue", 
+        "END_Y": 658504.0, 
+        "END_X": 253824.0, 
+        "START_X": 253968.0, 
+        "START_Y": 658605.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327933140592454, 
+          55.79761897599344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Court", 
+        "END_Y": 658514.0, 
+        "END_X": 254137.0, 
+        "START_X": 254083.0, 
+        "START_Y": 658486.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.3249128648153, 
+          55.798080636066004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Drive", 
+        "END_Y": 658689.0, 
+        "END_X": 253819.0, 
+        "START_X": 254274.0, 
+        "START_Y": 658531.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330980709300507, 
+          55.79761515108991
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Gardens", 
+        "END_Y": 658418.0, 
+        "END_X": 253856.0, 
+        "START_X": 253892.0, 
+        "START_Y": 658492.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330050805033242, 
+          55.798342896043906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Grove", 
+        "END_Y": 658565.0, 
+        "END_X": 253899.0, 
+        "START_X": 253953.0, 
+        "START_Y": 658571.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.328896248205157, 
+          55.79931758710919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry Place", 
+        "END_Y": 658596.0, 
+        "END_X": 254006.0, 
+        "START_X": 254029.0, 
+        "START_Y": 658677.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.326743588452342, 
+          55.79881003982624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Invergarry View", 
+        "END_Y": 658544.0, 
+        "END_X": 254104.0, 
+        "START_X": 254162.0, 
+        "START_Y": 658616.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331056092063889, 
+          55.805550809724316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilbeg Terrace", 
+        "END_Y": 659466.0, 
+        "END_X": 253775.0, 
+        "START_X": 253917.0, 
+        "START_Y": 659375.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330884644648381, 
+          55.8058866452212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmaluag Terrace", 
+        "END_Y": 659361.0, 
+        "END_X": 254019.0, 
+        "START_X": 253929.0, 
+        "START_Y": 659412.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330884644648381, 
+          55.8058866452212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmaluag Terrace", 
+        "END_Y": 659361.0, 
+        "END_X": 254019.0, 
+        "START_X": 253929.0, 
+        "START_Y": 659412.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330884644648381, 
+          55.8058866452212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmaluag Terrace", 
+        "END_Y": 659361.0, 
+        "END_X": 254019.0, 
+        "START_X": 253929.0, 
+        "START_Y": 659412.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.32792718931295, 
+          55.80874718052004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmartin Place", 
+        "END_Y": 659866.0, 
+        "END_X": 254038.0, 
+        "START_X": 254125.0, 
+        "START_Y": 659724.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.32792718931295, 
+          55.80874718052004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmartin Place", 
+        "END_Y": 659866.0, 
+        "END_X": 254038.0, 
+        "START_X": 254125.0, 
+        "START_Y": 659724.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Crescent", 
+        "END_Y": 659567.0, 
+        "END_X": 254055.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Crescent", 
+        "END_Y": 659567.0, 
+        "END_X": 254055.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Crescent", 
+        "END_Y": 659567.0, 
+        "END_X": 254055.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Crescent", 
+        "END_Y": 659567.0, 
+        "END_X": 254055.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Crescent", 
+        "END_Y": 659567.0, 
+        "END_X": 254055.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Crescent", 
+        "END_Y": 659567.0, 
+        "END_X": 254055.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331106279815463, 
+          55.80505547563045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Road", 
+        "END_Y": 659599.0, 
+        "END_X": 254085.0, 
+        "START_X": 253912.0, 
+        "START_Y": 659320.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331106279815463, 
+          55.80505547563045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Road", 
+        "END_Y": 659599.0, 
+        "END_X": 254085.0, 
+        "START_X": 253912.0, 
+        "START_Y": 659320.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331106279815463, 
+          55.80505547563045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Road", 
+        "END_Y": 659599.0, 
+        "END_X": 254085.0, 
+        "START_X": 253912.0, 
+        "START_Y": 659320.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.331106279815463, 
+          55.80505547563045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilmuir Road", 
+        "END_Y": 659599.0, 
+        "END_X": 254085.0, 
+        "START_X": 253912.0, 
+        "START_Y": 659320.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.318203130678182, 
+          55.81083654776766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kiloran Street", 
+        "END_Y": 659658.0, 
+        "END_X": 254734.0, 
+        "START_X": 254742.0, 
+        "START_Y": 659936.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.318203130678182, 
+          55.81083654776766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kiloran Street", 
+        "END_Y": 659658.0, 
+        "END_X": 254734.0, 
+        "START_X": 254742.0, 
+        "START_Y": 659936.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.318203130678182, 
+          55.81083654776766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kiloran Street", 
+        "END_Y": 659658.0, 
+        "END_X": 254734.0, 
+        "START_X": 254742.0, 
+        "START_Y": 659936.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.328591044438566, 
+          55.80489640587775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kilvaxter Drive", 
+        "END_Y": 659542.0, 
+        "END_X": 254031.0, 
+        "START_X": 254069.0, 
+        "START_Y": 659297.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.327029257589781, 
+          55.80814395678787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Road", 
+        "END_Y": 659085.0, 
+        "END_X": 253903.0, 
+        "START_X": 254179.0, 
+        "START_Y": 659655.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330441677109039, 
+          55.80354897485935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kyleakin Terrace", 
+        "END_Y": 659248.0, 
+        "END_X": 253814.0, 
+        "START_X": 253948.0, 
+        "START_Y": 659151.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330987658632488, 
+          55.80307120649502
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kylerhea Road", 
+        "END_Y": 659282.0, 
+        "END_X": 253838.0, 
+        "START_X": 253912.0, 
+        "START_Y": 659099.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.330987658632488, 
+          55.80307120649502
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Kylerhea Road", 
+        "END_Y": 659282.0, 
+        "END_X": 253838.0, 
+        "START_X": 253912.0, 
+        "START_Y": 659099.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353873134669899, 
+          55.80491825607427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Drive", 
+        "END_Y": 659263.0, 
+        "END_X": 252461.0, 
+        "START_X": 252485.0, 
+        "START_Y": 659353.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353873134669899, 
+          55.80491825607427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Drive", 
+        "END_Y": 659263.0, 
+        "END_X": 252461.0, 
+        "START_X": 252485.0, 
+        "START_Y": 659353.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353873134669899, 
+          55.80491825607427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Drive", 
+        "END_Y": 659263.0, 
+        "END_X": 252461.0, 
+        "START_X": 252485.0, 
+        "START_Y": 659353.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353873134669899, 
+          55.80491825607427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Drive", 
+        "END_Y": 659263.0, 
+        "END_X": 252461.0, 
+        "START_X": 252485.0, 
+        "START_Y": 659353.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353873134669899, 
+          55.80491825607427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Drive", 
+        "END_Y": 659263.0, 
+        "END_X": 252461.0, 
+        "START_X": 252485.0, 
+        "START_Y": 659353.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.353873134669899, 
+          55.80491825607427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Drive", 
+        "END_Y": 659263.0, 
+        "END_X": 252461.0, 
+        "START_X": 252485.0, 
+        "START_Y": 659353.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.35318267775276, 
+          55.804320235648206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Langford Place", 
+        "END_Y": 659308.0, 
+        "END_X": 252496.0, 
+        "START_X": 252526.0, 
+        "START_Y": 659285.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.328692575002537, 
+          55.80098436859074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Loganswell Drive", 
+        "END_Y": 658786.0, 
+        "END_X": 254102.0, 
+        "START_X": 254048.0, 
+        "START_Y": 658862.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.328083183119631, 
+          55.79906332643172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Loganswell Place", 
+        "END_Y": 658706.0, 
+        "END_X": 254157.0, 
+        "START_X": 254079.0, 
+        "START_Y": 658647.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.347385402571831, 
+          55.80717266519439
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Millview Place", 
+        "END_Y": 659622.0, 
+        "END_X": 252836.0, 
+        "START_X": 252900.0, 
+        "START_Y": 659590.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.347385402571831, 
+          55.80717266519439
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Millview Place", 
+        "END_Y": 659622.0, 
+        "END_X": 252836.0, 
+        "START_X": 252900.0, 
+        "START_Y": 659590.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.347385402571831, 
+          55.80717266519439
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Millview Place", 
+        "END_Y": 659622.0, 
+        "END_X": 252836.0, 
+        "START_X": 252900.0, 
+        "START_Y": 659590.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.34401510264839, 
+          55.80208639307918
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Morina Gardens", 
+        "END_Y": 659020.0, 
+        "END_X": 253016.0, 
+        "START_X": 253092.0, 
+        "START_Y": 659017.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.370460525288255, 
+          55.80604671118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "DESCRIPTOR": "Parkhouse Road", 
+        "END_Y": 659694.0, 
+        "END_X": 252877.0, 
+        "START_X": 251450.0, 
+        "START_Y": 659514.0
+      }
+    }
+  ]
+}
