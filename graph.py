@@ -37,10 +37,15 @@ with open('data/traffic_data.csv') as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
 
+        feature = Feature(row[4], row[5], row[6], row[7], row[8], row[9],
+                          row[12], row[13], row[14], row[15], row[16], row[23], row[24])
+        # Road names as keys to dictionaries containing features for all segments
+        ROAD_FEATURES[row[4]].append(feature)
+
         # Don't add an edge for every year
         if row[0] == '2000':
             GRAPH[row[8]].append(row[9])
-            GRAPH[row[9]].append(row[8])
+            GRAPH[row[9]].append(row[8]) 
 
             coordinates = convert(int(row[6]), int(row[7]))
             coordinates[0] -= 0.0013
@@ -48,12 +53,16 @@ with open('data/traffic_data.csv') as csvfile:
                                           "coordinates": coordinates
                                           },
                              "type": "Feature",
-                             "properties": {"DESCRIPTOR": row[4]}
+                             "properties": {"DESCRIPTOR": row[4],
+                                            "pedal_cycles": feature.pedal_cycles,
+                                            "motor_cycles": feature.motor_cycles,
+                                            "cars": feature.cars,
+                                            "buses": feature.buses,
+                                            "light_goods": feature.light_goods,
+                                            "hgv": feature.hgv,
+                                            "all_motor": feature.all_motor}
                             })
 
-        # Road names as keys to dictionaries containing features for all segments
-        ROAD_FEATURES[row[4]].append(Feature(row[4], row[5], row[6], row[7], row[8], row[9],
-                                             row[12], row[13], row[14], row[15], row[16], row[23], row[24]))
 
 output["features"] = features
 # print json.dumps(output)
