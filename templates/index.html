@@ -22,6 +22,16 @@
   border-radius:50%;
   line-height:30px;
   }
+.big-traffic-dot {
+  background:#00B800;
+  border:1px solid rgba(255,255,255,0.5);
+  color:#fff;
+  font-weight:bold;
+  text-align:center;
+  font-size: 24px;
+  border-radius:50%;
+  line-height:90px;	
+}
 </style>
 </head>
 <body>
@@ -37,23 +47,28 @@ var map = L.mapbox.map('map', 'examples.map-i86nkdio')
 var trafficLayer = L.mapbox.featureLayer()
     .addTo(map);
 
-trafficLayer.on('layeradd', function(e) {
+var createIcon = function(size, text_on) {
+	return function(e) {
     var marker = e.layer,
         feature = marker.feature;
-	
-	console.log(feature);
 
-	var icon = {"iconUrl": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Ski_trail_rating_symbol-green_circle.svg",
-	                    "iconSize": [18,18],
-	                    // "iconAnchor": [10,10],
-	                    // "popupAnchor": [0, -10],
-	                    "html": feature.properties.all_motor/100.0,
-	                    "className": "traffic-dot"};
+	var icon = {"iconSize": [size,size],
+                // "iconAnchor": [10,10],
+                // "popupAnchor": [0, -10],
+                "className": "traffic-dot"};
+
+    if (text_on) {
+    	icon.html = feature.properties.all_motor;
+    	icon.className = "big-traffic-dot";
+    };
 
     marker.setIcon(L.divIcon(icon));
+	};
+};
 
-});
-
+trafficLayer.on('layeradd', createIcon(18, false));
+trafficLayer.on('mouseover', createIcon(90, true));
+trafficLayer.on('mouseout', createIcon(18, false));
 trafficLayer.loadURL('static/traffic.geojson');
 
 var eventsLayer = L.mapbox.featureLayer()
