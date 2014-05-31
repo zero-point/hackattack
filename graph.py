@@ -30,6 +30,7 @@ class Feature(object):
     def __str__(self):
         return (self.road, self.start_junction, self.end_junction)
 
+
 output = {"type": "FeatureCollection"}
 features = []
 
@@ -47,13 +48,14 @@ with open('data/traffic_data.csv') as csvfile:
             GRAPH[row[8]].append(row[9])
             GRAPH[row[9]].append(row[8]) 
 
+
             coordinates = convert(int(row[6]), int(row[7]))
             coordinates[0] -= 0.0013
             features.append({"geometry": {"type": "Point",
                                           "coordinates": coordinates
                                           },
                              "type": "Feature",
-                             "properties": {"DESCRIPTOR": row[4],
+                             "properties": {"title": row[4],
                                             "pedal_cycles": feature.pedal_cycles,
                                             "motor_cycles": feature.motor_cycles,
                                             "cars": feature.cars,

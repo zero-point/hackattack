@@ -9,6 +9,19 @@
 <style>
   body { margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
+/*
+ * Unlike other icons, you can style `L.divIcon` with CSS.
+ * These styles make each marker a circle with a border and centered text.
+ */
+.traffic-dot {
+  background:#00B800;
+  border:1px solid rgba(255,255,255,0.5);
+  color:#fff;
+  font-weight:bold;
+  text-align:center;
+  border-radius:50%;
+  line-height:30px;
+  }
 </style>
 </head>
 <body>
@@ -17,13 +30,31 @@
 var map = L.mapbox.map('map', 'examples.map-i86nkdio')
     .setView([55.858, -4.259], 13);
 
-var roadLayer = L.mapbox.featureLayer()
-    .addTo(map);
-roadLayer.loadURL('static/a_roads.geojson');
-
-// var trafficLayer = L.mapbox.featureLayer()
+// var roadLayer = L.mapbox.featureLayer()
 //     .addTo(map);
-// trafficLayer.loadURL('static/traffic.geojson');
+// roadLayer.loadURL('static/a_roads.geojson');
+
+var trafficLayer = L.mapbox.featureLayer()
+    .addTo(map);
+
+trafficLayer.on('layeradd', function(e) {
+    var marker = e.layer,
+        feature = marker.feature;
+	
+	console.log(feature);
+
+	var icon = {"iconUrl": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Ski_trail_rating_symbol-green_circle.svg",
+	                    "iconSize": [18,18],
+	                    // "iconAnchor": [10,10],
+	                    // "popupAnchor": [0, -10],
+	                    "html": feature.properties.all_motor/100.0,
+	                    "className": "traffic-dot"};
+
+    marker.setIcon(L.divIcon(icon));
+
+});
+
+trafficLayer.loadURL('static/traffic.geojson');
 
 var eventsLayer = L.mapbox.featureLayer()
     .addTo(map);
@@ -42,8 +73,7 @@ eventsLayer.on('layeradd', function(e) {
                             '</b>' +
                             '<hr/>' +
                             feature.properties.comment +
-                        '</span>';
-
+                        '</span>'
     // http://leafletjs.com/reference.html#popup
     marker.bindPopup(popupContent,{
         closeButton: true,
