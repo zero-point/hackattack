@@ -31,16 +31,16 @@ def hello_world():
     return render_template('index.html')
 
 
-@app.route('/events.geojson')
-def events():
-    rv = cache.get('events-geojson')
-    if rv is None:
-        print 'memcached empty'
-        rv = get_events_response()
-        cache.set('events-geojson', rv)
-    else:
-        print 'memcached has it'
-    return json.dumps(rv)
+# @app.route('/events.geojson')
+# def events():
+#     rv = cache.get('events-geojson')
+#     if rv is None:
+#         print 'memcached empty'
+#         rv = get_events_response()
+#         cache.set('events-geojson', rv)
+#     else:
+#         print 'memcached has it'
+#     return json.dumps(rv)
 
 
 def get_events_response():

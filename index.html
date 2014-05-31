@@ -46,12 +46,13 @@ trafficLayer.on('layeradd', function(e) {
 
 	console.log(feature);
 
-	var icon = {"iconUrl": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Ski_trail_rating_symbol-green_circle.svg",
-	                    "iconSize": [18,18],
-	                    // "iconAnchor": [10,10],
-	                    // "popupAnchor": [0, -10],
-	                    "html": feature.properties.all_motor/100.0,
-	                    "className": "traffic-dot"};
+	var icon = {
+      "iconSize": [18,18],
+      // "iconAnchor": [10,10],
+      // "popupAnchor": [0, -10],
+      "html": feature.properties.all_motor/100.0,
+      "className": "traffic-dot"
+  };
 
     marker.setIcon(L.divIcon(icon));
 
@@ -61,7 +62,7 @@ trafficLayer.loadURL('static/traffic.geojson');
 
 var eventsLayer = L.mapbox.featureLayer()
     .addTo(map);
-eventsLayer.loadURL('events.geojson');
+eventsLayer.loadURL('static/events.geojson');
 
 // Add custom popups to each using our custom feature properties
 eventsLayer.on('layeradd', function(e) {
