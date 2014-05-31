@@ -20,6 +20,10 @@ var map = L.mapbox.map('map', 'examples.map-i86nkdio')
 var featureLayer = L.mapbox.featureLayer()
     .addTo(map);
 featureLayer.loadURL('static/a_roads.geojson');
+
+var trafficLayer = L.mapbox.featureLayer()
+    .addTo(map);
+trafficLayer.loadURL('static/traffic.geojson');
 </script>
 </body>
 </html>
