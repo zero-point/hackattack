@@ -35,7 +35,12 @@ eventsLayer.on('layeradd', function(e) {
         feature = marker.feature;
 
     // Create custom popup content
+    var title = feature.properties.linkName != undefined ? feature.properties.localLinkName + ' - ' + feature.properties.linkName : feature.properties.localLinkName ;
     var popupContent =  '<span>' +
+                            '<b>' +
+                            title +
+                            '</b>' +
+                            '<hr/>' +
                             feature.properties.comment +
                         '</span>';
 
