@@ -7,14 +7,22 @@ from werkzeug.contrib.cache import MemcachedCache
 app = Flask(__name__)
 app.debug = True
 
-cache = MemcachedCache(['127.0.0.1:11211'], default_timeout=60*2)
+cache = MemcachedCache(['127.0.0.1:11211'], default_timeout=65)
 
 event_colors = {
     'roadClosed': '#ff0000',
     'laneOrCarriagewayClosed': '#ff0000',
-    'contraflow': '#FFE600',
+    'contraflow': '#FF8000',
     'trafficContolInOperation': '#ff69b4',
-    'unknown': '#737373'
+    'unknown': '#0047AB'
+}
+
+event_symbols = {
+    'roadClosed': 'roadblock',
+    'laneOrCarriagewayClosed': 'roadblock',
+    'contraflow': 'embassy',
+    'trafficContolInOperation': 'police',
+    'unknown': 'fire-station'
 }
 
 
@@ -65,6 +73,7 @@ def get_events_response():
         d['properties']['type'] = record.get('networkManagementType', 'unknown')
         d['properties']['comment'] = record['nonGeneralPublicComment']['comment']['value']
         d['properties']['marker-color'] = event_colors[d['properties']['type']]
+        d['properties']['marker-symbol'] = event_symbols[d['properties']['type']]
         name = point['name']
         if isinstance(name, list):
             for name in point['name']:

@@ -21,9 +21,9 @@ var roadLayer = L.mapbox.featureLayer()
     .addTo(map);
 roadLayer.loadURL('static/a_roads.geojson');
 
-var trafficLayer = L.mapbox.featureLayer()
-    .addTo(map);
-trafficLayer.loadURL('static/traffic.geojson');
+// var trafficLayer = L.mapbox.featureLayer()
+//     .addTo(map);
+// trafficLayer.loadURL('static/traffic.geojson');
 
 var eventsLayer = L.mapbox.featureLayer()
     .addTo(map);
@@ -41,7 +41,7 @@ eventsLayer.on('layeradd', function(e) {
 
     // http://leafletjs.com/reference.html#popup
     marker.bindPopup(popupContent,{
-        closeButton: false,
+        closeButton: true,
         minWidth: 320
     });
 });
