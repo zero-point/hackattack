@@ -9,6 +9,7 @@
 <style>
   body { margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
+
 /*
  * Unlike other icons, you can style `L.divIcon` with CSS.
  * These styles make each marker a circle with a border and centered text.
@@ -22,16 +23,7 @@
   border-radius:50%;
   line-height:30px;
   }
-.big-traffic-dot {
-  background:#00B800;
-  border:1px solid rgba(255,255,255,0.5);
-  color:#fff;
-  font-weight:bold;
-  text-align:center;
-  font-size: 24px;
-  border-radius:50%;
-  line-height:90px;
-}
+
 </style>
 </head>
 <body>
@@ -40,6 +32,7 @@
 var map = L.mapbox.map('map', 'examples.map-i86nkdio')
     .setView([55.858, -4.259], 13);
 
+
 // var roadLayer = L.mapbox.featureLayer()
 //     .addTo(map);
 // roadLayer.loadURL('static/a_roads.geojson');
@@ -47,30 +40,27 @@ var map = L.mapbox.map('map', 'examples.map-i86nkdio')
 var trafficLayer = L.mapbox.featureLayer()
     .addTo(map);
 
-var createIcon = function(size, text_on) {
-	return function(e) {
+trafficLayer.on('layeradd', function(e) {
     var marker = e.layer,
         feature = marker.feature;
 
-	var icon = {"iconSize": [size,size],
-                "className": "traffic-dot"};
+	var icon = {
+      "iconSize": [18,18],
+      // "iconAnchor": [10,10],
+      // "popupAnchor": [0, -10],
+      "html": feature.properties.all_motor/100.0,
+      "className": "traffic-dot"
+  };
 
-    if (text_on) {
-      icon.html = feature.properties.all_motor;
-      icon.className = "big-traffic-dot";
-    }
     marker.setIcon(L.divIcon(icon));
-	};
-};
 
-trafficLayer.on('layeradd', createIcon(18, false));
-trafficLayer.on('mouseover', createIcon(90, true));
-trafficLayer.on('mouseout', createIcon(18, false));
+});
+
 trafficLayer.loadURL('static/traffic.geojson');
 
 var eventsLayer = L.mapbox.featureLayer()
     .addTo(map);
-eventsLayer.loadURL('events.geojson');
+eventsLayer.loadURL('static/events.geojson');
 
 // Add custom popups to each using our custom feature properties
 eventsLayer.on('layeradd', function(e) {
@@ -78,14 +68,14 @@ eventsLayer.on('layeradd', function(e) {
         feature = marker.feature;
 
     // Create custom popup content
-    var title = feature.properties.linkName !== undefined ? feature.properties.localLinkName + ' - ' + feature.properties.linkName : feature.properties.localLinkName ;
+    var title = feature.properties.linkName != undefined ? feature.properties.localLinkName + ' - ' + feature.properties.linkName : feature.properties.localLinkName ;
     var popupContent =  '<span>' +
                             '<b>' +
                             title +
                             '</b>' +
                             '<hr/>' +
                             feature.properties.comment +
-                        '</span>';
+                        '</span>'
     // http://leafletjs.com/reference.html#popup
     marker.bindPopup(popupContent,{
         closeButton: true,
